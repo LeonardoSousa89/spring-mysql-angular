@@ -1,1 +1,1 @@
-# spring-mysql-angular test
+# spring-mysql-angular
